@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: charanraj1/mybuild-images:0
+        image: charanraj1/mybuild-images:todoapp-v0
         ports:
         - containerPort: 8000
