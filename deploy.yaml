@@ -18,4 +18,4 @@ spec:
       - name: todo
         image: charanraj1/mybuild-images:todoapp-v10
         ports:
-        - containerPort: 8101010
+        - containerPort: 8000
